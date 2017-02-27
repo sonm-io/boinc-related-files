@@ -15,7 +15,7 @@ if ($conn->connect_error) {
 $appid = mysqli_real_escape_string($conn, $_GET['appid']);
 $key = $_GET['key'];
 
-if ($key == 'iusdnxuyfjxkgh6776c43') {
+if ($key == 'XXXXXXXXX') {
     if (! filter_var($appid, FILTER_VALIDATE_INT)) {
         echo "Your variable is not an integer";
     }else {
