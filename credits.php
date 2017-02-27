@@ -1,5 +1,5 @@
 <?php
-// This file is part of DrugDiscovery@Home BOINC project.
+// This file is part of DrugDiscovery@Home  project.
 // http://boinc.drugdiscoveryathome.com
 // Copyright (C) 2017 by Krzysztof 'krzyszp' Piszczek
 // This file is available under GNU GPL3 licence
